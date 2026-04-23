@@ -1,0 +1,99 @@
+body{
+    background-image: linear-gradient(#5587d3, #9473e4);
+    max-width: 100%;
+    margin-left: 20%;
+    margin-right: 20%;
+    transition: ease-in-out;
+    transition-duration: 3s;
+}
+
+h1{
+    color: bisque;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    top: 0%;
+}
+.Logo{
+    margin-right: 0%;
+    text-align: center;
+}
+nav{
+border-style: groove;
+border-radius: 10px;
+background-image: linear-gradient(rgb(24, 131, 122), rgb(155, 35, 179));
+font-size: 25px;
+}
+
+nav ul{
+    display: flex;
+    list-style: none;
+  }
+  nav a{
+    text-align: center;
+    font-family:cursive;
+    text-decoration: none;
+    color:bisque;
+  }
+section{
+    margin-top: 5%;
+    max-width: 100%;
+    top: 20px;
+    border-style: groove;
+    border-color: bisque;
+    border-radius: 10px;
+    box-shadow: 3px;
+}
+.Pasteles{
+    padding-right: 3%;
+    font-family: cursive;
+    color: aliceblue;
+    padding-left: 3%;
+    padding-bottom: 3%;
+background-image: linear-gradient(rgb(155, 35, 179), rgb(17, 255, 108));
+
+}
+.Tippast{
+    background-color: rgb(57, 66, 117);
+    border: 1px;
+    border-style: dashed; 
+    border-radius: 20px;
+}
+.Tippast2{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    padding-right: 2%;
+}
+.Pedido{
+    padding-left: 3%;
+    padding-bottom: auto;
+    background-image: linear-gradient(#5587d3, #fcf8e5);
+    font-family: cursive;
+}
+.Contactanos{
+    background-image: linear-gradient(#9f56db, #5d6cf5);
+    padding-left: 2%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    font-family: cursive;
+    color:bisque;
+}
+.Cnt{
+    padding-left: 30%;
+    padding-right: 30%;
+}
+.Sobrenosotros{
+    font-family: cursive;
+    text-align: center;
+    background-image: linear-gradient(#df9e9e, #c983df);
+    padding-left: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-bottom: 3%;
+}
+footer{
+    font-family: cursive;
+    color: aliceblue;
+    
+}
